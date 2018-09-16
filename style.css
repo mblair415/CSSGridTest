@@ -10,7 +10,7 @@ html, body {
 body {
   padding: 5px;
 }
-.box_1, .box_2 {
+.box_1 {
   min-height: 100px;
   border: 1px solid black;
   width: 100%;
